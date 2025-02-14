@@ -1,6 +1,3 @@
-$ vim ~/whoami.sh
-
-```bash
 #!/bin/bash
 
 #                       ,,   ,,                                                   ,,        ,,  
@@ -24,5 +21,3 @@ export Containers=("Docker" "Kubernetes")
 export Cloud=("AWS" "Azure")
 export CICD=("Github Actions" "GitLab CI/CD")
 export SGBD=("MySQL" "SQL Server")
-
-```
