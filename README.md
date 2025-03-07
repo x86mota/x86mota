@@ -41,9 +41,6 @@
       <a href="https://www.linkedin.com/in/felipecruzit/">
         <img width="20px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
       </a>&nbsp;
-      <a href="https://www.dio.me/users/felipecruz_d">
-        <img width="20px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" alt="Digital Innovation One" >
-      </a>&nbsp;
       <a href="https://discordapp.com/users/1160662271207411712">
         <img width="20px" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/653714c174fc6c8bbea73caf_636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Discord" />
       </a>
